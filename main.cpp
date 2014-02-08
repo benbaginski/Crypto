@@ -9,6 +9,7 @@ using namespace std;
 
 int main(){
 	keyReader reader;
+	cout<<"Keys must consist of 10 unique alphabetic characters."<<endl;
 	reader.readString('1');
 	cout << reader.getString()<<endl;
 	
