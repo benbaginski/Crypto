@@ -2,7 +2,7 @@
  * keyReader.cpp
  *
  *  Created on: Feb 7, 2014
- *      Author: benmandude
+ *      Author: Ben Baginski
  */
 #include "keyReader.h"
 keyReader::keyReader(){

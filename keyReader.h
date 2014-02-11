@@ -2,14 +2,12 @@
  * keyReader.h
  *
  *  Created on: Feb 7, 2014
- *      Author: benmandude
+ *      Author: Ben Baginski
  */
-#include <iostream>
-using namespace std;
-
-
 #ifndef KEYREADER_H_
 #define KEYREADER_H_
+#include <iostream>
+using namespace std;
 class keyReader{
 
 public:
