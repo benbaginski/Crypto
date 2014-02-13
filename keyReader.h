@@ -8,6 +8,7 @@
 #define KEYREADER_H_
 #include <iostream>
 using namespace std;
+
 class keyReader{
 
 public:
@@ -19,7 +20,5 @@ public:
 private:
 	string key;
 	bool valid;
-
-
 };
 #endif /* KEYREADER_H_ */
